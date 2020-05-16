@@ -1,0 +1,47 @@
+seurl = "https://example.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Gamers Kreed"
+theme = "hugo-theme-dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+# [taxonomies]
+# author = "authors"
+# tag = "tags"
+# category = "categories"
+# serie = "series"
+
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Gamers Kreed"
+  description = "Gamers gather here to accomplish a Common goal. The Goal is to enforce our will upon any game that presents itself before us."
+  avatar = "/img/avatar.jpg"
+  motto = "Gaming for the Win!"
+
+ # Social Settings:
+  email = "GamingKreed@gmail.com"
+  discord = "https://www.discord.com/gamerskreed"
+  github = "https:github.com/gamerskreed"
+  twitter = "https://twitter.com/gamerskreed"
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
