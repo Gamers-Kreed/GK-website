@@ -12,8 +12,7 @@ draft: false
 
 
 <!--more-->
-{{< figure src="/img/review-red-dead-redemption-2.jpg" width=90% >}}
-
+![Red Dead Redemption](/img/review-red-dead-redemption-2.jpg)
 
 [RDR2][1] has done it again. The RDR2 World has cover the 4 B's... Bigger, Better, and Beyond Bodacious! You can spend hours just trying to figure out all of the different species of bird within this [West World Season 1][2] simulator. I was pleasantly surprised, when I popped this game into my XBOX. With all of the different animals, plants, and scenery that you are able to interact with in the game, you can get so immersed in this game. 
 
