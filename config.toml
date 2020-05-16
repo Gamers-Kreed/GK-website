@@ -1,4 +1,4 @@
-seurl = "https://gamingcreed.netlify.app"
+baseurl = "https://gamingcreed.netlify.app"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Gamers Kreed"
