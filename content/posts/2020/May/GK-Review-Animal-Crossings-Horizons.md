@@ -6,7 +6,7 @@ author: That Dude
 cover: /img/animal-crossing-new-horizons-box-art-1.jpg
 categories: ["review"]
 tags: ["Nintendo Switch", "gaming"]
-draft: true
+draft: false
 ---
 
 # Nintendo Animal Crossing has hit Mainstream... Again?

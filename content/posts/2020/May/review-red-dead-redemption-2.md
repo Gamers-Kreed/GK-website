@@ -5,7 +5,7 @@ author: "That Dude"
 cover: /img/review-red-dead-redemption-2.jpg
 categories: ["Review"]
 tags: ["XBox", "Review", "PS4"]
-draft: true
+draft: false
 ---
 # Review Red Dead Redemption 2
 
