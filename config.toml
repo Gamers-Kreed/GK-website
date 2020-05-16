@@ -6,11 +6,11 @@ theme = "hugo-theme-dream"
 
 # copyright = ""
 
-# googleAnalytics = ""
+googleAnalytics = "UA-162830290-2"
 
 # disqusShortname = ""
 
-# enableRobotsTXT = true
+enableRobotsTXT = true
 
 # [taxonomies]
 # author = "authors"
