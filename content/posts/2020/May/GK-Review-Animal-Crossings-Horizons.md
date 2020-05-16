@@ -10,8 +10,6 @@ draft: false
 ---
 
 # Nintendo Animal Crossing has hit Mainstream... Again?
-<link href='http://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans:300' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="/static/css/style.css">
 
 <!--more-->
 
