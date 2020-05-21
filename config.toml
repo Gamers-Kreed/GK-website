@@ -4,7 +4,8 @@ defaultContentLanguage = "en"
 title = "Gamers Kreed"
 theme = "hugo-theme-dream"
 
-# copyright = ""
+#copyright = "© 2020 Gamers Kreed"
+#copyright = "2020 Gamers Kreed"
 
 googleAnalytics = "UA-162830290-2"
 
