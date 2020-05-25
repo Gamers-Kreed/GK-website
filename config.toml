@@ -26,7 +26,8 @@ enableRobotsTXT = true
 
   author = "Gamers Kreed"
   description = "Gamers gather here to accomplish a Common goal. The Goal is to enforce our will upon any game that presents itself before us."
-  avatar = "/img/avatar.jpg"
+  #avatar = "/img/avatar.jpg"
+  avatar = "/img/animal-crossing-new-horizons-box-art-1.jpg"
   motto = "Gaming for the Win!"
 
  # Social Settings:

@@ -6,7 +6,7 @@ author: That Dude
 cover: /img/ghost-of-tsushima-credit-sucker-punch-productions.jpg
 categories: ["Impressions"]
 tags: ["Playstaion 4", "console gaming"]
-draft: true
+draft: false
 ---
 
 Visually EPIC Samurai Open World Simulation!
@@ -25,12 +25,12 @@ Visually EPIC Samurai Open World Simulation!
 ----
 
 ### Impressions ( First Look )
-Ghost of Tsushima has been on my radar for at least a year now. I kept hearing and reading rumbling about his game, but was very skeptical about it's release, because I could not find any concrete evidence of it's existence, that's until Suck Punch Productions fir a 🎙+ Drop on May 14, 2020 @4PM ET during a PlayStation [State of Play][2] Presentation. Not to give too much away, but the presentation basically give you a sneak peak at some really Spectacular Gameplay Visuals, Smooth Acoustics, and Legendary Looking Landscapes. The look and feel of the game makes me reminisce to days when I first gazed my eyes upon a MUST watch CLASSIC [Seven Samurai][3]. 
+Ghost of Tsushima has been on my radar for at least a year now. I kept hearing and reading rumblings about this game, but was very skeptical about it's release because I could not find any concrete evidence of it's existence, that's until Suck Punch Productions did a 🎙+ Drop on May 14, 2020 @4PM ET during a PlayStation [State of Play][2] Presentation. Not to give too much away, but the presentation basically gives you a sneak peak at some really Spectacular Gameplay Visuals, Smooth Acoustics, and Legendary Looking Landscapes. The look and feel of the game makes me reminisce to days when I first gazed my eyes upon a MUST watch CLASSIC [Seven Samurai][3]. 
 
 {{< figure src="/img/ghost-of-tsushima-credit-suckerpunch@2000x1270-1.jpg" width=90% >}}
 
-### Samurai ( Honor the Past) or Ghost (Fight to Live )
-From what I gathered the storyline is a battle between fighting with honor while fighting solo or succumbing guerrilla warfare to pick off and unsurmountable amount of enemy forces. With those as my two choices I will definitely be GHOSTING those Fools or go straight SICKO mentality like [Conan][4] - "Crush your enemies, see them driven before you, and hear the lamentation of the women!"
+### Samurai ( Honor the Past ) or Ghost ( Fight to Live )
+From what I gathered the storyline is a battle between fighting with honor while fighting solo or succumbing to guerrilla warfare to pick off an unsurmountable amount of enemy forces. With those as my two choices I will definitely be GHOSTING those Fools or go straight SICKO, mentality, like [Conan][4] - "Crush your enemies, see them driven before you, and hear the lamentation of the women!"
 
 With all I have seen and heard about this game, I do have some high expectations for it. I believe that [SPP][1], has the "Kreed" and experience to pull this off. I can hardly wait to get my hands on this game which at first look seem to the be and instant Classic.
 
@@ -47,7 +47,7 @@ With all I have seen and heard about this game, I do have some high expectations
 #### ☆ 18 minute Presentation of **Ghost-of Tsushima**
 {{< youtube ww3eh-55lT0 >}}
 
-#### 📱 Tweet Tweet                                                                                                                                                                                                                            
+## 📱 Twitter Post                                                                                                                                                                                                                           
 {{< twitter 1261023257982988288 >}} 
 
 [1]: https://www.suckerpunch.com/category/games/ghost-of-tsushima/
