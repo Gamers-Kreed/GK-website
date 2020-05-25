@@ -1,5 +1,5 @@
 ---
-title: 'GK Review - Animal Crossing: New Horizons'
+title: 'Animal Crossing: New Horizons'
 date: 2020-05-14T18:50:23-05:00
 lastmod: 2020-05-14T18:50:23-05:00
 author: That Dude

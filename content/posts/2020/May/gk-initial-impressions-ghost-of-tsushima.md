@@ -1,5 +1,5 @@
 ---
-title: "GK Initial Impressions - Ghost of Tsushima"
+title: "Ghost of Tsushima"
 date: 2020-05-20T22:27:04-05:00                                                                                                                                                                                                             
 lastmod: 2020-05-20T22:27:04-05:00
 author: That Dude

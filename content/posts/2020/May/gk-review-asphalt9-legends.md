@@ -1,5 +1,5 @@
 ---
-title: "GK Review - Asphalt 9: Legends"
+title: "Asphalt 9: Legends"
 date: 2020-05-17T17:20:20-05:00
 lastmod: 2020-05-17T17:20:20-05:00
 author: That Dude
