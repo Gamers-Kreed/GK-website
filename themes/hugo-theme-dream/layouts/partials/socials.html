@@ -63,6 +63,14 @@
     </div>
   {{ end }}
 
+  {{ if .Site.Params.youtube }}
+    <div class="item">
+      <a href="https://www.youtube.com/{{ .Site.Params.youtube }}" target="_blank">
+        <i class="{{ .IconSize }} youtube icon" title="youtube"></i>
+      </a>
+    </div>
+  {{ end }}
+
   {{ if .Site.Params.codepen }}
     <div class="item">
       <a href="https://codepen.io/{{ .Site.Params.codepen }}" target="_blank">
