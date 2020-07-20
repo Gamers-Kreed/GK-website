@@ -2,7 +2,7 @@
 title: "Asphalt 9: Legends"
 date: 2020-05-17T17:20:20-05:00
 lastmod: 2020-05-17T17:20:20-05:00
-author: That Dude
+author: ThatDude_Vinny
 cover: /img/asphalt-9-legends-switch-hero.jpg
 categories: ["review"]
 tags: ["Nintendo Switch", "Console Gaming"]

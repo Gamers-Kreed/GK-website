@@ -1,7 +1,7 @@
 ---
 title: "Red Dead Redemption 2"
 date: 2020-05-13T21:11:15-05:00
-author: "That Dude"
+author: "ThatDude_Vinny"
 cover: /img/review-red-dead-redemption-2.jpg
 categories: ["Review"]
 tags: ["XBox", "Review", "PS4"]

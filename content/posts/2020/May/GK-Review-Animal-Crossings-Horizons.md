@@ -2,7 +2,7 @@
 title: 'Animal Crossing: New Horizons'
 date: 2020-05-14T18:50:23-05:00
 lastmod: 2020-05-14T18:50:23-05:00
-author: That Dude
+author: ThatDude_Vinny
 cover: /img/animal-crossing-new-horizons-box-art-1.jpg
 categories: ["review"]
 tags: ["Nintendo Switch", "gaming"]

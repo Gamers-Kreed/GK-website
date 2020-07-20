@@ -2,11 +2,11 @@
 title: "GK Impressions - Far Cry 6"
 date: 2020-07-15T17:20:20-05:00
 lastmod: 2020-07-15T17:20:20-05:00
-author:     "ThatDude_Vinny"
+author: "ThatDude_Vinny"
 cover: /img/2020-July/farcry6-hero-2.png
 categories: ["Impressions"]
 tags: ["playstation", "xbox", "stadia"]
-draft: true
+draft: false
 ---
 
 **Far Cry 6: Welcome to Yara** 
